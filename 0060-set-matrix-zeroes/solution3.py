@@ -5,6 +5,8 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """   
 
+        #BETTER APPROACH 
+
         rows=[0]*len(matrix) 
         cols=[0]*len(matrix[0]) 
 
